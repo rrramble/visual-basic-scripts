@@ -11,4 +11,4 @@ Therefore, use this script at your risk if your contacts are not to be disclosed
 
 ## Unhide ranges and cell names in Excel sheet
 
-[Unhides range and cell names(./excel-unhide-cell-names.vbs) in Excel sheet.
+[Unhides range and cell names](./excel-unhide-cell-names.vbs) in Excel sheet.
